@@ -1,0 +1,38 @@
+baseurl = "https://handstodur.is"
+title = "Handstöðu Helgi"
+subtitle = "Test"
+theme = "dimension"
+languageCode = "en-is"
+defaultContentLanguage = "is"
+enableRobotsTXT = true
+disableKinds=["RSS"]
+
+[params]
+  description = '<!--[-->Handstöðukennsla!<!--]-->'
+  logoimage = "/images/pelin b&w.png"
+  copyright = "Helgi"
+  custom_css = ["css/custom.css"]
+
+[[params.social]]
+  medium = "instagram"
+  icon = "instagram"
+  link = "http://instagram.com/helgi_freyr"
+  
+[[params.social]]
+  medium = "facebook"
+  icon = "facebook"
+  link = "https://www.facebook.com/HandstoduHelgi/"
+
+[[params.social]]
+  medium = "email"
+  icon = "envelope"
+  link = "mailto:helgi@primal.is"
+
+[languages]
+[languages.is]
+languageName = "Íslenska"
+weight = 1
+title = "Lærðu að standa á höndum!"
+subtitle = "Námskeið, einkatímar og fjarþjálfun í handstöðum, liðleika og styrk."
+baseurl = "https://handstodur.is"
+description = '<!--[--> Handstöður krefjast einbeitingar, styrks og liðleika af öllum líkamanum. Ég hef sérhæft mig í handstöðunni og því að kenna bæði fullorðnum og börnum listina að standa á höndum. Til mín hafa leitað tæplega eitt þúsund manns síðan að ég fór fyrst af stað með námskeið haustið 2017. Ég hef eitthvað upp á að bjóða fyrir alla, hvort sem að um algjöra byrjendur er að ræða eða þá sem nú þegar kunna að standa á höndum og allt þar á milli. Ég er einnig FRC mobility specialist og býð upp á bæði einkaþjálfun sem og fjarþjálfun í þeirri aðferðafræði.<!--]-->'
